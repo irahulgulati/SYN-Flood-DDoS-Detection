@@ -2,7 +2,7 @@
 Python Script that sniffs network traffic on a Apache server and use anomaly detection methods to detect DDoS attack. 
 
 # Project Setup
-1. This code requrires a SYN-Flood generating script, which can be found on my github page.
+1. This code requires a SYN-Flood generating script, which can be found on my github page.
 2. A Linux machine
 3. An Apache Server running on port 80
 
